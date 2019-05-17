@@ -1,0 +1,20 @@
+{
+	"name": "webgarden/ci",
+	"description": "Core libraries",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Webgarden Dev team",
+			"email": "webgarden@webgarden.cz",
+			"homepage": "http://www.webgarden.cz/info/o-tymu-webgarden"
+		}
+	],
+	"require": {
+		"php": ">=7.0"
+	},
+	"require-dev": {
+		"slevomat/coding-standard": "~4.0",
+		"phpstan/phpstan": "^0.6.4"
+	}
+}
